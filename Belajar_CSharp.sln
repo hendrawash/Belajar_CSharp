@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selection_switch", "Selecti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selection_ComplexIf", "Selection_ComplexIf\Selection_ComplexIf.csproj", "{190BACD2-9D63-4525-9408-5B25CE0A4875}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_For", "Loop_For\Loop_For.csproj", "{9DF1EA00-A120-4F8D-962C-83D93199E550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_For_Break", "Loop_For_Break\Loop_For_Break.csproj", "{80D178E8-7112-4E57-AC1B-219C85AAC728}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{190BACD2-9D63-4525-9408-5B25CE0A4875}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{190BACD2-9D63-4525-9408-5B25CE0A4875}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{190BACD2-9D63-4525-9408-5B25CE0A4875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF1EA00-A120-4F8D-962C-83D93199E550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF1EA00-A120-4F8D-962C-83D93199E550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF1EA00-A120-4F8D-962C-83D93199E550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF1EA00-A120-4F8D-962C-83D93199E550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D178E8-7112-4E57-AC1B-219C85AAC728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D178E8-7112-4E57-AC1B-219C85AAC728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D178E8-7112-4E57-AC1B-219C85AAC728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D178E8-7112-4E57-AC1B-219C85AAC728}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
